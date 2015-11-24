@@ -1,3 +1,4 @@
 //24.11.2015
-
-alert(1);
+var a = 1;
+alert(a);
+console.log(a);
